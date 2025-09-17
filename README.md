@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요! 주니어 백엔드 개발자 [이름]입니다.
+# 👋 안녕하세요! 주니어 백엔드 개발자 [박형민]입니다.
 
 <p>새로운 기술을 배우고 적용하는 것을 즐기며, 안정적이고 확장 가능한 백엔드 시스템을 구축하는 데 관심이 많습니다.</p>
 <p>문제 해결 과정을 즐기고, 동료들과 함께 성장하는 것을 중요하게 생각합니다.</p>
@@ -45,7 +45,7 @@
     -   [구현한 핵심 기능 2. 예: '게시글 CRUD 및 실시간 댓글 기능']
     -   [구현한 핵심 기능 3. 예: 'AWS S3를 이용한 이미지 업로드']
 -   **기술 스택:** `Java`, `Spring Boot`, `JPA`, `MySQL`, `AWS`
--   **GitHub Repository:** [저장소 링크](https://github.com/your-username/project-1)
+-   **GitHub Repository:** [저장소 링크](https://github.com/gudals2040/)
 
 <br>
 
